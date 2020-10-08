@@ -21,5 +21,4 @@ Dataset Collected:
 |V50|4|
 |S60 Cross Country|2|
 |S40|1|
-| --- | ----------- |
 |Total|1079|
