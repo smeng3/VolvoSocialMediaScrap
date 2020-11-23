@@ -1,7 +1,9 @@
 # VolvoSocialMediaScrap
 A repository for volvo car review scraping 
+
 DATA-X - Volvo Social Media Crawler & Predictor #2 Team
-Sixu Meng, Zhecan Huang, Xiyu He
+
+Sixu Meng, Zhecan Huang, Xiyu He, 
 Kai Lun Chen, Shreyas Hariharan, Suyash Jaju
 
 
