@@ -78,7 +78,7 @@ NAVBAR = dbc.Navbar(
     sticky="top",
 )
 
-df = pd.read_csv("data/Volvo_edmunds_10yrs.csv",lineterminator='\n').iloc[:,1:]
+df = pd.read_csv("Volvo_edmunds_10yrs.csv",lineterminator='\n').iloc[:,1:]
 df['Review_Date'] = pd.to_datetime(df['Review_Date'],errors='coerce')
 df["sentiment"] = df.apply(conditions, axis=1)
 df["Review"] = df["Review"].apply(review_cleaner)
