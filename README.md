@@ -6,7 +6,8 @@
 
 
 
-##### Visualization: [Click Here](https://smeng3.github.io/VolvoSocialMediaScrap/).
+##### Visualizations: 
+[Click Here](https://smeng3.github.io/VolvoSocialMediaScrap/).
 
 
 
@@ -14,7 +15,8 @@
 ##### Table of Contents: 
 | File Name | Description |
 | --- | ----------- |
-|||
+| |  |
+| | |
 
 
 
