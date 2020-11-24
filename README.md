@@ -18,9 +18,23 @@
 #### Table of Contents: 
 | File Name | Description |
 | --- | ----------- |
-| |  |
-| | |
-
+| KNN(1).ipynb |  |
+| LDA.ipynb | |
+| NLP Viz.ipynb | | 
+| NLP.ipynb | | 
+| README.md | | 
+| Web Scraping.ipynb | | 
+| app.py | | 
+| app_copy.py | | 
+| backup old lda.ipynb | | 
+| geckodriver.log | | 
+| kbb 3.ipynb | | 
+| kbb.ipynb | | 
+| ldavis_prepared_5 | | 
+| ldavis_prepared_5.html | | 
+| modeling.ipynb | |
+| old.py | | 
+| plot.ipynb | | 
 
 
 
