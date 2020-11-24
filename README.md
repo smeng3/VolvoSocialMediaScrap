@@ -6,13 +6,19 @@
 ### By: Sixu Meng, Zhecan Huang, Xiyu He, Kai Lun Chen, Shreyas Hariharan, Suyash Jaju
 
 
-Visulization: [Click Here](https://smeng3.github.io/VolvoSocialMediaScrap/).
+Visualization: [Click Here](https://smeng3.github.io/VolvoSocialMediaScrap/).
+
+
+Table of Contents: 
+| File Name | Description |
+| --- | ----------- |
+|||
 
 
 Dataset Collected:
 
 
-| Model | Reviews (counts) |
+| Volvo Model Name | Reviews (counts) |
 | --- | ----------- |
 |XC60|244|
 |S60|232|
