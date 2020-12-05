@@ -4,14 +4,19 @@
 #### By: Sixu Meng, Zhecan Huang, Xiyu He, Kai Lun Chen, Shreyas Hariharan, Suyash Jaju
 
 
+#### Overview: 
+As we have now entered the era of data and information, traditional businesses have begun riding the wave of increasingly powerful data science tools to support their decision making and gather insight for strategic planning. Volvo, a global luxury automotive manufacturer from Sweden that produces more than 700,000 cars per year, is similarly looking to assemble all the raw data from the internet and leverage it to improve their business strategy and planning. Most customers and vehicle owners prefer using social media and forums to post reviews and comments about their newly purchased car rather than responding to surveys; thus, it is highly beneficial for Volvo’s business operation team to parse this raw data and extract meaningful information. Hence, this year, Volvo joined forces with 6 UC Berkeley students to build a comprehensive dashboard showcasing essential information extracted from car review websites, notably what customers like or dislike about their Volvos. 
+
+Implementing the classic data analysis approach, the Berkeley team of students began with scraping a large amount of data on Volvo vehicle models from famous car reviews websites such as Edmunds and KBB. Then, the team subsequently modeled the scraped data with natural language processing tools to analyze customer sentiment by identifying common words and topics found across online reviews. The final results were displayed in a custom-built dashboard provided to Volvo for future use. The dashboard includes graphs and interactive components representing various insights derived from sentiment analysis, allowing Volvo to easily navigate and visualize key information. 
+
+
+Read more about the project on our News Release: *[Click Here](https://docs.google.com/document/d/1__y8xFW6x_ceoO0J9vSxzERt0ygRiZAzwPgxR2AduFo/edit?usp=sharing)*
 
 
 ##### Visualizations: *[Click Here](https://smeng3.github.io/VolvoSocialMediaScrap/).*
 
 
 ##### Story of Project: *[Click Here](https://drive.google.com/file/d/1jNIdr0YYvRiAqAeUiLbnZIr0yQxRonUG/view?usp=sharing)*
-
-##### News Release of Project: *[Click Here](https://docs.google.com/document/d/1__y8xFW6x_ceoO0J9vSxzERt0ygRiZAzwPgxR2AduFo/edit?usp=sharing)*
 
 
 
