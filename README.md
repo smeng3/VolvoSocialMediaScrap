@@ -28,7 +28,7 @@ Read more about the project on our News Release: *[Click Here](https://docs.goog
 | NLP Viz.ipynb | | 
 | NLP.ipynb | | 
 | README.md | | 
-| Web Scraping.ipynb | | 
+| Web Scraping.ipynb | Code used to web scrape customer reviews about Volvo from Edmund, a popular car review website| 
 | app.py | | 
 | app_copy.py | | 
 | backup old lda.ipynb | | 
