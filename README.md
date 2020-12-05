@@ -25,7 +25,7 @@ Read more about the project on our News Release: *[Click Here](https://docs.goog
 | --- | ----------- |
 | KNN(1).ipynb |  |
 | LDA.ipynb | |
-| NLP Viz.ipynb | | 
+| NLP Viz.ipynb | Code for visualizing text data using NLP and topic modeling by building NMF models and LDA models| 
 | NLP.ipynb | | 
 | README.md | | 
 | Web Scraping.ipynb | Code used to web scrape customer reviews about Volvo from Edmund, a popular car review website| 
