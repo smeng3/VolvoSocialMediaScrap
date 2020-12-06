@@ -23,24 +23,11 @@ Read more about the project on our News Release: *[Click Here](https://docs.goog
 #### Table of Contents: 
 | File Name | Description |
 | --- | ----------- |
-| KNN(1).ipynb |  |
-| LDA.ipynb | |
-| NLP Viz.ipynb | Code for visualizing text data using NLP and topic modeling by building NMF models and LDA models| 
-| NLP.ipynb | Code for cleaning text data and conducting elementary topic analysis + generating word clouds | 
-| README.md | | 
+| NLP Visualization.ipynb | Code for visualizing text data using NLPlot and Dash Plotly| 
+| NLP Modeling.ipynb | Code for cleaning text data and conducting elementary topic analysis + generating word clouds | 
 | Web Scraping.ipynb | Code used to web scrape customer reviews about Volvo from Edmund, a popular car review website| 
-| app.py | | 
-| app_copy.py | | 
-| backup old lda.ipynb | | 
-| geckodriver.log | | 
-| kbb 3.ipynb | | 
-| kbb.ipynb | | 
-| ldavis_prepared_5 | | 
-| ldavis_prepared_5.html | | 
-| modeling.ipynb | |
-| old.py | | 
-| plot.ipynb | | 
-
+| data | Web Scraped Volvo Car Review Data from edmunds.com|
+| extra data | Web Scraped Other Brands of Car Review Data from edmunds.com | 
 
 
 #### Dataset Collected:
