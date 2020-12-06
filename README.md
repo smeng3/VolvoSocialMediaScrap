@@ -15,10 +15,7 @@ Read more about the project on our News Release: *[Click Here](https://docs.goog
 
 ##### Visualizations: *[Click Here](https://smeng3.github.io/VolvoSocialMediaScrap/).*
 
-
 ##### Story of Project: *[Click Here](https://drive.google.com/file/d/1jNIdr0YYvRiAqAeUiLbnZIr0yQxRonUG/view?usp=sharing)*
-
-
 
 #### Table of Contents: 
 | File Name | Description |
@@ -29,10 +26,12 @@ Read more about the project on our News Release: *[Click Here](https://docs.goog
 | data | Web Scraped Volvo Car Review Data from edmunds.com|
 | extra data | Web Scraped Other Brands of Car Review Data from edmunds.com | 
 
+#### Requirement
+- [python package](https://github.com/smeng3/VolvoSocialMediaScrap/blob/main/requirements.txt)
+
+## Part I: Web Scraping
 
 #### Dataset Collected:
-
-
 | Volvo Model Name | Reviews (counts) |
 | --- | ----------- |
 |XC60|244|
@@ -52,3 +51,23 @@ Read more about the project on our News Release: *[Click Here](https://docs.goog
 |S60 Cross Country|2|
 |S40|1|
 |Total|1079|
+
+## Part II: NLP Modeling:
+
+
+## Part III: NLP Visualization:
+
+
+### Other
+
+- Plotly is used to plot the figure
+    - https://plotly.com/python/
+
+- co-occurrence networks is used to calculate the co-occurrence network
+    - https://networkx.github.io/documentation/stable/tutorial.html
+
+- The following is used to plot pyLDAvis
+    - https://github.com/bmabey/pyLDAvis
+
+- wordcloud uses the following fonts
+    - https://mplus-fonts.osdn.jp/about.html
