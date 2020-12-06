@@ -1,19 +1,52 @@
-# VolvoSocialMediaScrap
-A repository for volvo car review scraping 
+# VolvoSocialMediaScrap – Volvo Social Media Crawler & Predictor #2 (DATA-X)
+#### *A repository for web scraping of  Volvo car reviews* 
 
-DATA-X - Volvo Social Media Crawler & Predictor #2 Team
-
-Sixu Meng, Zhecan Huang, Xiyu He, 
-Kai Lun Chen, Shreyas Hariharan, Suyash Jaju
+#### By: Sixu Meng, Zhecan Huang, Xiyu He, Kai Lun Chen, Shreyas Hariharan, Suyash Jaju
 
 
-Visulization: [Click Here](https://smeng3.github.io/VolvoSocialMediaScrap/).
+#### Overview: 
+As we have now entered the era of data and information, traditional businesses have begun riding the wave of increasingly powerful data science tools to support their decision making and gather insight for strategic planning. Volvo, a global luxury automotive manufacturer from Sweden that produces more than 700,000 cars per year, is similarly looking to assemble all the raw data from the internet and leverage it to improve their business strategy and planning. Most customers and vehicle owners prefer using social media and forums to post reviews and comments about their newly purchased car rather than responding to surveys; thus, it is highly beneficial for Volvo’s business operation team to parse this raw data and extract meaningful information. Hence, this year, Volvo joined forces with 6 UC Berkeley students to build a comprehensive dashboard showcasing essential information extracted from car review websites, notably what customers like or dislike about their Volvos. 
+
+Implementing the classic data analysis approach, the Berkeley team of students began with scraping a large amount of data on Volvo vehicle models from famous car reviews websites such as Edmunds and KBB. Then, the team subsequently modeled the scraped data with natural language processing tools to analyze customer sentiment by identifying common words and topics found across online reviews. The final results were displayed in a custom-built dashboard provided to Volvo for future use. The dashboard includes graphs and interactive components representing various insights derived from sentiment analysis, allowing Volvo to easily navigate and visualize key information. 
 
 
-Dataset Collected:
+Read more about the project on our News Release: *[Click Here](https://docs.google.com/document/d/1__y8xFW6x_ceoO0J9vSxzERt0ygRiZAzwPgxR2AduFo/edit?usp=sharing)*
 
 
-| Model | Reviews (counts) |
+##### Visualizations: *[Click Here](https://smeng3.github.io/VolvoSocialMediaScrap/).*
+
+
+##### Story of Project: *[Click Here](https://drive.google.com/file/d/1jNIdr0YYvRiAqAeUiLbnZIr0yQxRonUG/view?usp=sharing)*
+
+
+
+#### Table of Contents: 
+| File Name | Description |
+| --- | ----------- |
+| KNN(1).ipynb |  |
+| LDA.ipynb | |
+| NLP Viz.ipynb | Code for visualizing text data using NLP and topic modeling by building NMF models and LDA models| 
+| NLP.ipynb | Code for cleaning text data and conducting elementary topic analysis + generating word clouds | 
+| README.md | | 
+| Web Scraping.ipynb | Code used to web scrape customer reviews about Volvo from Edmund, a popular car review website| 
+| app.py | | 
+| app_copy.py | | 
+| backup old lda.ipynb | | 
+| geckodriver.log | | 
+| kbb 3.ipynb | | 
+| kbb.ipynb | | 
+| ldavis_prepared_5 | | 
+| ldavis_prepared_5.html | | 
+| modeling.ipynb | |
+| old.py | | 
+| plot.ipynb | | 
+
+
+
+#### Dataset Collected:
+
+
+| Volvo Model Name | Reviews (counts) |
 | --- | ----------- |
 |XC60|244|
 |S60|232|
