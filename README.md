@@ -38,7 +38,7 @@ For our dashboard and topic analysis, we only used data from the recent 10 years
 In our extra_data folder, we were able to gather data on 49 other car brands to supplement our sentimental model to update our vocabulary, and conduct semi-supervised learning.
 
 
-#### Dataset Collected:
+#### Dataset Collected（Volvo_edmunds_10yrs.csv）:
 | Volvo Model Name | Reviews (counts) |
 | --- | ----------- |
 |XC60|244|
