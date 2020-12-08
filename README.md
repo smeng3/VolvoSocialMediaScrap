@@ -68,6 +68,8 @@ We get 0.95 accuracry for our validation set, and 0.74 recall rate for our minor
 
 ## Part III: NLP Visualization:
 
+Based on the analysis we have done on volvo's review, we made visualizations and a dashboard.
+
 ##### Visualizations: *[Click Here](https://github.com/smeng3/VolvoSocialMediaScrap/blob/main/NLP%20Visualization.ipynb).*
 
 ### Other
