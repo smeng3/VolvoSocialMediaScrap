@@ -68,7 +68,7 @@ We get 0.95 accuracry for our validation set, and 0.74 recall rate for our minor
 
 ## Part III: NLP Visualization:
 
-
+##### Visualizations: *[Click Here](https://github.com/smeng3/VolvoSocialMediaScrap/blob/main/NLP%20Visualization.ipynb).*
 
 ### Other
 
