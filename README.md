@@ -31,6 +31,13 @@ Read more about the project on our News Release: *[Click Here](https://docs.goog
 
 ## Part I: Web Scraping
 
+We collects three sets of data from Edmunds.com. In our data folder, we have other_car_review_volvo.csv and Volvo_edmunds_10yrs.csv, which ars all the data that we were able to gather on Volvo which we used to help train and test our sentimental analysis model. This allows the Volvo team to continue using this model with any new reviews that they may get or any internal reviews as well.
+
+For our dashboard and topic analysis, we only used data from the recent 10 years of Volvo cars(Volvo_edmunds_10yrs.csv)
+
+In our extra_data folder, we were able to gather data on 49 other car brands to supplement our sentimental model to update our vocabulary, and conduct semi-supervised learning.
+
+
 #### Dataset Collected:
 | Volvo Model Name | Reviews (counts) |
 | --- | ----------- |
@@ -54,8 +61,13 @@ Read more about the project on our News Release: *[Click Here](https://docs.goog
 
 ## Part II: NLP Modeling:
 
+For the sentimental analysis and modeling part, we conduct semi-supervied random forest model. We used SMOTE (oversampling) to do oversampling for our data with lable 0. And we used extra datasets of other cars (unlabeled data) to help train model.
+
+We get 0.95 accuracry for our validation set, and 0.74 recall rate for our minority group. 
+
 
 ## Part III: NLP Visualization:
+
 
 
 ### Other
