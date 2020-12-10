@@ -75,7 +75,7 @@ Based on the analysis we have done on volvo's review, we made visualizations and
 One of the many visualizations we created were word clouds. On the screen you can see the different words associated with positive, neutral and negative customer sentiments respectively which help Volvo identify the strengths and weaknesses based on customer experiences. 
 For example, positives words that are highlighted in the word-cloud are “design and performance”, which indicate that customers love the way the car looks and drives. On the other hands, some negative words used to describe Volvo are  “service” and “dealer”. This could provide some clues that Volvo might be focusing more on their car products but not so much on the customer experience around maintenance and upkeep. Volvo could then derive a strategic plan to focus on improving the quality of maintenance services they provide to customers!
 
-Another such visualization we created was a co-occurrence network to illustrate the potential word relationships from online reviews. Red highlights negative, yellow highlights neutral, and green highlights positive sentiment-relationships. 
+Another such visualization we created was a co-occurrence network to illustrate the potential word relationships from online reviews. Red highlights negative, yellow highlights neutral, and green highlights positive sentiment-relationships. This file need to be downloaded and view on local computer. 
 This will help Volvo identify what words and problems might be related to one another. Volvo can then introduce new features by identifying patterns in the analysis and save costs by prioritizing improvements that target multiple problem-areas for maximum business impact.
 
 To give a brief overview of the dashboard: The dashboard can give uniary, binary, or ternary combination of worlds that customers used to describe the positive, neuture, ad negative sides of volvo's car. We can also select specific car models to see the reviews. We also have a treemap which displays a sentiment tree of most common words used in customer complaints. And we also have these most common words are displayed in a sunburst chart used to describe hierarchical data. This will help Volvo identify the popular issues customers face, for example the word “interior”, that is highlighted in red on the right. The dashboard allows Volvo to learn how their vehicles reflect in the market and therefore build improved solutions faster for future car models. However, the access of the dashboard need an environment set up, so it currently only runs in our local computer.
@@ -84,7 +84,7 @@ To give a brief overview of the dashboard: The dashboard can give uniary, binary
 ##### Visualizations file location: VolvoSocialMediaScrap/NLP Visualization.ipynb
 
 
-## Next Step
+##  Part IV：Next Step
 With more time, our team would like to: 
 Scrape more data from car review websites like KBB to strengthen our modeling and analysis
 Utilize Selenium to automate clicking through online reviews for dynamic websites with changing parameters 
