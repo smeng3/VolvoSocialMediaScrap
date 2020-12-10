@@ -12,10 +12,7 @@ Implementing the classic data analysis approach, the Berkeley team of students b
 
 Read more about the project on our News Release: *[Click Here](https://docs.google.com/document/d/1__y8xFW6x_ceoO0J9vSxzERt0ygRiZAzwPgxR2AduFo/edit?usp=sharing)*
 
-
-##### Visualizations: *[Click Here](https://smeng3.github.io/VolvoSocialMediaScrap/).*
-
-##### Story of Project: *[Click Here](https://drive.google.com/file/d/1jNIdr0YYvRiAqAeUiLbnZIr0yQxRonUG/view?usp=sharing)*
+Story of Project: *[Click Here](https://drive.google.com/file/d/1jNIdr0YYvRiAqAeUiLbnZIr0yQxRonUG/view?usp=sharing)*
 
 #### Table of Contents: 
 | File Name | Description |
