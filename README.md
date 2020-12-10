@@ -59,11 +59,16 @@ In our extra_data folder, we were able to gather data on 49 other car brands to 
 |S40|1|
 |Total|1079|
 
+##### Webscraping file location: VolvoSocialMediaScrap/Web Scraping.ipynb
+
+
 ## Part II: NLP Modeling:
 
 For the sentimental analysis and modeling part, we conduct semi-supervied random forest model. We used SMOTE (oversampling) to do oversampling for our data with lable 0. And we used extra datasets of other cars (unlabeled data) to help train model.
 
 We get 0.95 accuracry for our validation set, and 0.74 recall rate for our minority group. 
+
+##### Modeling file location: VolvoSocialMediaScrap/NLP Modeling.ipynb
 
 
 ## Part III: NLP Visualization:
@@ -79,11 +84,19 @@ This will help Volvo identify what words and problems might be related to one an
 To give a brief overview of the dashboard: The dashboard can give uniary, binary, or ternary combination of worlds that customers used to describe the positive, neuture, ad negative sides of volvo's car. We can also select specific car models to see the reviews. We also have a treemap which displays a sentiment tree of most common words used in customer complaints. And we also have these most common words are displayed in a sunburst chart used to describe hierarchical data. This will help Volvo identify the popular issues customers face, for example the word “interior”, that is highlighted in red on the right. The dashboard allows Volvo to learn how their vehicles reflect in the market and therefore build improved solutions faster for future car models. However, the access of the dashboard need an environment set up, so it currently only runs in our local computer.
 
 
+##### Visualizations file location: VolvoSocialMediaScrap/NLP Visualization.ipynb
+
+
+## Next Step
+With more time, our team would like to: 
+Scrape more data from car review websites like KBB to strengthen our modeling and analysis
+Utilize Selenium to automate clicking through online reviews for dynamic websites with changing parameters 
+
+Automate web-scraping and dashboard-updating when new reviews are added to the websites
+Requires more time and effort but will improve process efficiency for Volvo
 
 
 
-
-##### Visualizations: *[Click Here](https://github.com/smeng3/VolvoSocialMediaScrap/blob/main/NLP%20Visualization.ipynb).*
 
 ### Other
 
